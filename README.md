@@ -1,5 +1,5 @@
 # Projeto em C
-Projeto feito em C, que permite que o cadastro de até mil usuários.
+Projeto feito em C que permite que o cadastro de até mil usuários.
 
 ## Layout
 
